@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1711304959451,
+      "tag": "0000_dapper_smiling_tiger",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1711306221289,
+      "tag": "0001_stormy_dracula",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1711307044471,
+      "tag": "0002_tired_frank_castle",
+      "breakpoints": true
+    }
+  ]
+}
